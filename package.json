@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/maxbos/node-quaderno#readme",
   "dependencies": {
-    "request": "^2.88.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
